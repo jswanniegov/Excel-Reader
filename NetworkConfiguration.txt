@@ -1,0 +1,4 @@
+﻿Data Source=PTABRCSA02;
+Initial Catalog=Investigations;
+User id=CSACSharp;
+Password=CSharpPass01;

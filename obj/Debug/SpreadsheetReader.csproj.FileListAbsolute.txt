@@ -1,0 +1,7 @@
+c:\users\s2028566\documents\visual studio 2015\Projects\SpreadsheetReader\SpreadsheetReader\bin\Debug\SpreadsheetReader.exe.config
+c:\users\s2028566\documents\visual studio 2015\Projects\SpreadsheetReader\SpreadsheetReader\bin\Debug\SpreadsheetReader.exe
+c:\users\s2028566\documents\visual studio 2015\Projects\SpreadsheetReader\SpreadsheetReader\bin\Debug\SpreadsheetReader.pdb
+c:\users\s2028566\documents\visual studio 2015\Projects\SpreadsheetReader\SpreadsheetReader\obj\Debug\SpreadsheetReader.exe
+c:\users\s2028566\documents\visual studio 2015\Projects\SpreadsheetReader\SpreadsheetReader\obj\Debug\SpreadsheetReader.pdb
+C:\Users\S2028566\Documents\Visual Studio 2015\Projects\SpreadsheetReader\SpreadsheetReader\obj\Debug\SpreadsheetReader.csprojResolveAssemblyReference.cache
+C:\Users\S2028566\Documents\Visual Studio 2015\Projects\SpreadsheetReader\SpreadsheetReader\obj\Debug\SpreadsheetReader.csproj.ResolveComReference.cache
